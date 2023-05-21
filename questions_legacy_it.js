@@ -184,7 +184,7 @@ questions = [
     },
     {
         "id":23,
-        "question": "Potrei essere troppo noioso per qualcuno a letto.",
+        "question": "Potrei essere troppo noioso a letto per qualcuno.",
         "question_en": "I might be too boring for some people in the bedroom.",
         "effect": {
             "deviance": -1,
