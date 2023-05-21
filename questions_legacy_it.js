@@ -2,7 +2,7 @@ questions = [
     // Attract
     {
         "id":1,
-        "question": "Sarei disposto ad avere relazioni con uomini.",
+        "question": "Sarei disposto ad avere una relazione con un uomo.",
         "question_en": "I would have relationships with men.",
         "effect": {
             "attract": 1,
@@ -18,7 +18,7 @@ questions = [
     },
     {
         "id":3,
-        "question": "Sono attratto da corpi muscolosi.",
+        "question": "Sono attratto dai corpi muscolosi.",
         "question_en": "I find myself attracted to muscular bodies.",
         "effect": {
             "attract": 1,
@@ -26,7 +26,7 @@ questions = [
     },
     {
         "id":4,
-        "question": "Il pipo sarebbe solo meglio! (mi piace il cazzo)",
+        "question": "Se ha il pipo è ancora meglio! (mi piace il cazzo)",
         "question_en": "The benis only makes it better! (I like dick)",
         "effect": {
             "attract": 1,
@@ -34,7 +34,7 @@ questions = [
     },
     {
         "id":5,
-        "question": "Sono attratto dalla pelle morbida e da vestiti femminili.",
+        "question": "Sono attratto dalla pelle morbida e/o da vestiti femminili.",
         "question_en": "I find myself attracted to soft skin, feminine clothing.",
         "effect": {
             "attract": -1,
@@ -50,7 +50,7 @@ questions = [
     },
     {
         "id":7,
-        "question": "Potrei avere relazioni con donne.",
+        "question": "Sarei disposto ad avere una relazione con una donna.",
         "question_en": "I would have relationships with women.",
         "effect": {
             "attract": -1,
@@ -68,7 +68,7 @@ questions = [
     },
     {
         "id":9,
-        "question": "Avrei sesso regolarmente.",
+        "question": "Farei sesso regolarmente.",
         "question_en": "I would have sex on a regular basis.",
         "effect": {
             "drive": 1,
@@ -118,7 +118,7 @@ questions = [
     },
     {
         "id":15,
-        "question": "Mi piace (o potrebbe piacere) essere sotto il controllo di qualcuno.",
+        "question": "Mi piace (o potrebbe piacere) essere sotto il controllo di qualcun'altro.",
         "question_en": "I (would) enjoy someone having control over me.",
         "effect": {
             "dominant": -1,
@@ -126,7 +126,7 @@ questions = [
     },
     {
         "id":16,
-        "question": "Non sarei a mio agio fossi dominato.",
+        "question": "Non mi sentirei a mio agio se venissi dominato.",
         "question_en": "I wouldn't be comfortable with getting dominated.",
         "effect": {
             "dominant": 1,
@@ -144,7 +144,7 @@ questions = [
     },
     {
         "id":18,
-        "question": "Faccio parte di sotto-comunità associate a devianze.",
+        "question": "Faccio parte di gruppi associati a devianze.",
         "question_en": "I belong to sub-communities associated with deviances.",
         "effect": {
             "deviance": 1,
@@ -152,7 +152,7 @@ questions = [
     },
     {
         "id":19,
-        "question": "Mi piacerebbe essere insultato oppure insultare.",
+        "question": "Mi piace (o potrebbe piacere) essere insultato e/o umiliato oppure insultare e/o umiliare.",
         "question_en": "I (would) enjoy degrading or getting degraded.",
         "effect": {
             "deviance": 1,
@@ -168,7 +168,7 @@ questions = [
     },
     {
         "id":21,
-        "question": "Mi considero normale (come gusti sessuali).",
+        "question": "Considero i miei gusti sessuali normali.",
         "question_en": "I consider myself vanilla.",
         "effect": {
             "deviance": -2,
@@ -194,7 +194,7 @@ questions = [
     // Affect
     {
         "id":24,
-        "question": "Potrei essere lascivo solo con il mio partner (o i miei partner).",
+        "question": "Potrei essere lascivo solo con il mio/miei partner.",
         "question_en": "I could only be lewd to my partner(s).",
         "effect": {
             "affect": 1,
